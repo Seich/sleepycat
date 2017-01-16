@@ -1,0 +1,13 @@
+{
+  "name": "sleepycat",
+  "version": "0.0.1",
+  "description": "A tool for testing REST APIs",
+  "main": "sleepycat.js",
+  "author": "Sergio Díaz <seich@martianwabbit.com>",
+  "license": "MIT",
+  "dependencies": {
+    "beau": "^0.0.1",
+    "commander": "^2.9.0",
+    "js-yaml": "^3.7.0"
+  }
+}

@@ -1,0 +1,615 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ob",
+				"Object"
+			],
+			[
+				"requ",
+				"RequestCache"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"reqs",
+				"requestKeys"
+			],
+			[
+				"CAc",
+				"CACHE"
+			],
+			[
+				"con",
+				"configKeys"
+			],
+			[
+				"repla",
+				"replacementRegex"
+			],
+			[
+				"hea",
+				"headers"
+			],
+			[
+				"he",
+				"headers"
+			],
+			[
+				"match",
+				"matches"
+			],
+			[
+				"find",
+				"findDependencies"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"requs",
+				"requests"
+			],
+			[
+				"conf",
+				"config"
+			],
+			[
+				"reqes",
+				"requests"
+			],
+			[
+				"de",
+				"defaults"
+			],
+			[
+				"depen",
+				"dependencies"
+			],
+			[
+				"mat",
+				"matches"
+			],
+			[
+				"repl",
+				"replacementRegex"
+			],
+			[
+				"reqe",
+				"requests"
+			],
+			[
+				"safel",
+				"safely"
+			],
+			[
+				"heae",
+				"HEADERS"
+			],
+			[
+				"head",
+				"HEADERS"
+			],
+			[
+				"reg",
+				"requestRegex"
+			],
+			[
+				"config",
+				"configKeys"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sleepycat.js",
+			"settings":
+			{
+				"buffer_size": 401,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/seich/beau/requestList.js",
+			"settings":
+			{
+				"buffer_size": 970,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "example.yaml",
+			"settings":
+			{
+				"buffer_size": 321,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"panebel",
+				"Origami: Create Pane Below"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"snippet jest",
+				"Snippet: Object Value JS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tog",
+				"Toggle Comment"
+			],
+			[
+				"ss bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"deso",
+				"Origami: Destroy Pane Below"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"panbel",
+				"Origami: Create Pane Below"
+			],
+			[
+				"ss js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/seich/sleepycat",
+		"/home/seich/beau"
+	],
+	"file_history":
+	[
+		"/home/seich/sleepycat/sleepycat.js",
+		"/home/seich/sleepycat/example.yaml",
+		"/home/seich/sleepycat/package.json",
+		"/home/seich/beau/__tests__/requestList.spec.js",
+		"/home/seich/beau/requestList.js",
+		"/home/seich/beau/__tests__/request.spec.js",
+		"/home/seich/beau/request.js",
+		"/home/seich/beau/requestCache.js",
+		"/home/seich/beau/__tests__/requestCache.spec.js",
+		"/home/seich/beau/__tests__/example.yml",
+		"/home/seich/beau/__tests__/beau.spec.js",
+		"/home/seich/beau/__mocks__/request.js",
+		"/home/seich/beau/beau.js",
+		"/home/seich/beau/request-list.js",
+		"/home/seich/beau/shared.js",
+		"/home/seich/beau/package.json",
+		"/home/seich/beau/request-cache.js",
+		"/home/seich/beau/.gitignore",
+		"/home/seich/.config/sublime-text-3/Packages/User/console.log.sublime-snippet",
+		"/home/seich/.bashrc"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"request",
+			"requests",
+			"options",
+			"log",
+			"Loading",
+			"shrink",
+			"err",
+			"var",
+			"req",
+			"request",
+			"user",
+			"shared",
+			"length",
+			"RequestCache",
+			"payload",
+			"HEADERS",
+			"GET",
+			"let ",
+			"request",
+			"var",
+			"toBeFalse",
+			"hello",
+			"hi",
+			"hello",
+			"cache",
+			"requests.list[0]",
+			"RequestList",
+			"requestList",
+			"var",
+			"config",
+			"HOST",
+			"host",
+			"file",
+			"requests",
+			"content",
+			"notify",
+			"testEnvironment",
+			"private",
+			"token",
+			"session",
+			"endpoint",
+			"repla",
+			";",
+			"const",
+			"=",
+			"replace",
+			"replacementRegex",
+			"requestRegex",
+			"httpVerbs",
+			"result",
+			"dependencies",
+			"cache",
+			"this",
+			"this.parse",
+			"dependencies",
+			"cache",
+			"getCacheKey",
+			"this.$cache",
+			"Cache",
+			"cache",
+			"log",
+			"PAYLOAD",
+			"PARAMS",
+			"toupp",
+			"cach",
+			"ALIAS",
+			"current",
+			"fetching",
+			"rest",
+			"uuid",
+			"a.",
+			"a",
+			"matches",
+			"replacementRegex",
+			"[key]",
+			"config",
+			"id",
+			"dependencies",
+			"Dependencies",
+			"config",
+			"host",
+			"config",
+			"k",
+			"verb",
+			"args",
+			"log",
+			"parse",
+			"getCacheKey",
+			"requests",
+			"res",
+			"log",
+			"function",
+			"path",
+			"false",
+			"endpoint",
+			"forEach",
+			"$depen",
+			"$depende",
+			"dependencies",
+			"k",
+			"alias",
+			"endpoint",
+			"$endp",
+			"req",
+			"variable",
+			"default",
+			"undefined",
+			"i",
+			"log",
+			"v",
+			"obj",
+			"parse",
+			"parsed",
+			"current",
+			"GET",
+			"req",
+			"request",
+			":",
+			",",
+			"spec",
+			"this.doc[req]",
+			"ENDPOINT",
+			"VERB",
+			"PAYLOAD",
+			"endpoint",
+			"toUpperCase",
+			"var",
+			"refquests"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sleepycat.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								395,
+								395
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/seich/beau/requestList.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 970,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								554,
+								554
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "example.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sleepy-cat.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"reqli",
+				"requestList.js"
+			],
+			[
+				"requlisp",
+				"__tests__/requestList.spec.js"
+			],
+			[
+				"lispc",
+				"__tests__/requestList.spec.js"
+			],
+			[
+				"reli",
+				"requestList.js"
+			],
+			[
+				"exa",
+				"__tests__/example.yml"
+			],
+			[
+				"pack",
+				"package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
